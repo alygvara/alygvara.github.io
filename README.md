@@ -1,2 +1,2 @@
 # alygvara.github.io
-personal page/porfolio
+personal page/portfolio
